@@ -55,6 +55,11 @@ The analysis was completed as part of the Data Analytics Internship offered by C
 - Visual analysis helped identify major hotspots and affected regions.
 
 ---
+## Project Notebook
+
+Google Colab Link:
+https://colab.research.google.com/drive/1OhsbHtfx4E2I2p5cetH-k39WyjbU9FrZ?usp=sharing
+
 
 ## 📷 Sample Output
 The project includes visualizations and insights generated through exploratory data analysis of COVID-19 data.
